@@ -3,12 +3,12 @@
 ![PyPI - License](https://img.shields.io/pypi/l/revar)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Replace specific values ​​with custom variables
+Various types of multi-replace
 
 ## Installation
 
 ```bash
-pip3 install revar
+pip install revar
 ```
 ## Examples
 Input

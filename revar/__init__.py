@@ -21,7 +21,7 @@ def replace(
     source: Union[list, set, str, tuple], var: Dict[str, Union[str, int, bool, float]]
 ) -> None:
     """
-    Replace specific values ​​with custom variables.
+    Various types of multi-replace.
 
     Parameters
     ==========
@@ -45,7 +45,7 @@ class Revar:
         self.prefix = prefix
 
     """
-    Replace specific values ​​with custom variables and prefix.
+    Various types of multi-replace with prefix.
 
     Parameters
     ==========
@@ -56,7 +56,7 @@ class Revar:
 
     def replace(self, source: Union[list, set, str, tuple], **var) -> None:
         """
-        Replace specific values ​​with custom variables and prefix.
+        Various types of multi-replace with prefix.
 
         Parameters
         ==========
