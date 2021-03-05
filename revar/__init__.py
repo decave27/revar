@@ -11,7 +11,7 @@ Replace specific values ​​with custom variables.
 
 """
 __all__ = ["replace", "Revar"]
-__version__ = "0.2"
+__version__ = "0.3"
 __author__ = "decave27"
 __license__ = "MIT"
 __copyright__ = "Copyright 2021 decave27"

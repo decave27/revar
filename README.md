@@ -23,4 +23,17 @@ Output
 Hello, decave27
 Nice to meet you
 ```
+```python
+import revar
+
+r = revar.Revar(prefix="$")
+output = r.replace("Hello, $username\nNice to meet $who", username="decave27", who="you")
+print(output)
+```
+Output
+```
+Hello, decave27
+Nice to meet you
+```
+
 
