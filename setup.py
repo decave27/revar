@@ -34,7 +34,7 @@ setup(
         "Tracker": "https://github.com/decave27/revar/issues",
     },
     version=version,
-    keywords=["replace", "custom", "var"],
+    keywords=["replace", "custom", "variable"],
     packages=find_packages(),
     license="MIT",
     description="Replace specific values ​​with custom variables",
