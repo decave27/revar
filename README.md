@@ -36,4 +36,6 @@ Hello, decave27
 Nice to meet you
 ```
 
+## Discord Server
+https://discord.gg/SksjBSvuMn
 
